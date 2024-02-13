@@ -5,5 +5,5 @@
 Latest YouTube Videos
 
 Language and Tools
-
+![Git](https://img.shields.io/badge/Git-black?style-for-the-badge)
 Follow me

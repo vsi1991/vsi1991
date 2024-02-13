@@ -2,8 +2,6 @@
 
 ## I'm a beginner QA engineer 
 
-Latest YouTube Videos
-
 Language and Tools
 ![Git](https://img.shields.io/badge/Git-black?style-for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-black?style-for-the-badge)

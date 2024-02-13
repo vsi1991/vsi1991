@@ -8,5 +8,5 @@ Language and Tools
 ![Postman](https://img.shields.io/badge/Postman-black?style-for-the-badge)
 
 ### Follow me
-![Telegram](https://img.shields.io/badge/Telegram-blue?style-for-the-badge)
-![Linkedin](https://img.shields.io/badge/Linkedin-blue?style-for-the-badge)
+![Telegram](https://img.shields.io/badge/Telegram-blue?style-for-the-badge)(https://t.me/vsi1991)
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style-for-the-badge)(https://www.linkedin.com/in/svetlanamelnikova/)

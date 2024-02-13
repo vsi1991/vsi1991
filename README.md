@@ -7,4 +7,8 @@ Latest YouTube Videos
 Language and Tools
 ![Git](https://img.shields.io/badge/Git-black?style-for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-black?style-for-the-badge)
-Follow me
+![Postman](https://img.shields.io/badge/Postman-black?style-for-the-badge)
+
+### Follow me
+![Telegram](https://img.shields.io/badge/Telegram-blue?style-for-the-badge)
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style-for-the-badge)
